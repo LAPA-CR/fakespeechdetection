@@ -1,7 +1,7 @@
 
 # **Costa Rican Spanish Deepfake Detection**
 
-## ** About the Project**
+## **About the Project**
 
 **CR-FakeSpeech** is an open-source research initiative by the **LAPA (Audio Processing Lab)** in Costa Rica. Our goal is to address the lack of audio forensic resources for Central American Spanish.
 
@@ -64,7 +64,7 @@ TicoSpoof/
 
 ---
 
-## ** Getting Started**
+## **Getting Started**
 
 ### **Prerequisites**
 
@@ -93,7 +93,7 @@ Place your files in the shared drive (link in internal wiki) or submit a Pull Re
 
 ---
 
-## ** Tech Stack & Tools**
+## **Tech Stack & Tools**
 
 * **Language:** Python 3.8+
 * **Audio Processing:** Librosa, Torchaudio, ffmpeg
@@ -107,7 +107,7 @@ Place your files in the shared drive (link in internal wiki) or submit a Pull Re
 
 ---
 
-## ** Ethical Guidelines**
+## **Ethical Guidelines**
 
 This laboratory operates under strict ethical standards.
 
@@ -119,7 +119,7 @@ All contributors must sign the `ETHICS_PLEDGE.md` before accessing the synthetic
 
 ---
 
-## ** Roadmap**
+## **Roadmap**
 
 * [ ] **Phase 1:** Collect 5 hours of diverse Costa Rican speech (Real data).
 * [ ] **Phase 2:** Generate 5 hours of corresponding deepfakes (Synthetic data).
@@ -129,7 +129,7 @@ All contributors must sign the `ETHICS_PLEDGE.md` before accessing the synthetic
 
 ---
 
-## ** Contributing**
+## **Contributing**
 
 We welcome issues and pull requests! If you are a student at **Universidad de Costa Rica**, please check the "Good First Issue" tab to find tasks suitable for beginners.
 
@@ -137,8 +137,8 @@ We welcome issues and pull requests! If you are a student at **Universidad de Co
 
 ---
 
-### **Would you like me to:**
+<!--### **Would you like me to:**
 
 1. Create the **`ETHICS_PLEDGE.md`** template mentioned in the Readme?
 2. Draft a Python script for the **"Blue Team"** that students can run to record audio directly from their terminal?
-3. Move on to the README for the next project (e.g., The "Voice Banking" project)?
+3. Move on to the README for the next project (e.g., The "Voice Banking" project)?-->
